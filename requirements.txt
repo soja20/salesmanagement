@@ -6,3 +6,4 @@ Marshmallow
 python-dotenv
 PyMySQL
 Flask-Bcrypt
+gunicorn
